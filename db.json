@@ -1,0 +1,70 @@
+{
+  "payments": [
+    {
+      "id": 1,
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": 2,
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": 3,
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": 4,
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
+    },
+    {
+      "id": 5,
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": 6,
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": 7,
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": 8,
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "description": "Sportpesa",
+      "category": "Extra income",
+      "amount": "$500",
+      "id": 10
+    },
+    {
+      "description": "Sportpesa",
+      "category": "Extra income",
+      "amount": "$500",
+      "id": 11
+    },
+    {
+      "description": "Sportpesa",
+      "category": "Extra income",
+      "amount": "$500",
+      "id": 12
+    }
+  ]
+}
